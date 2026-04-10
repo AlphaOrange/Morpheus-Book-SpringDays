@@ -1,0 +1,26 @@
+---
+version:
+  book: 0.1.0
+  morpheus: 0.7.0
+features:
+  - move
+  - talk
+author: Stefan Tewes
+title: Spring Days
+description: |-
+  The days of spring are finally here in the beautiful cozy town of Honeybrook.
+  Birds are chirping, bees are buzzing. Just one thing: You are still alone.
+  The good news is: You are not the only one. So things are about to change ...
+tags:
+  - romance
+  - dating
+  - cozy
+cover: cover.jpg
+start:
+  destination: honeybrook
+  location: plaza
+  room: fountain
+  datetime: "2026-04-01 12:00:00"
+  introduction: >-
+    Here you are at Honeybrook plaza, the center of your cozy little town.
+    What could be a better place to start your journey, get to know new people and, maybe, fall in love?
