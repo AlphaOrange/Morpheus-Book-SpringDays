@@ -3,6 +3,9 @@ name: Blossom
 isPlayable: true
 isNPC: true
 description: >-
+  Bees are buzzing around this gleaming girl's head.
+  Are they living in her hair?
+description_player: >-
   The bees follow you everywhere. They like your hair. Is it because you smell like a flower?
   At least, you are always in good company. Bzz bzz.
 gender: female

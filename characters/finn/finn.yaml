@@ -3,6 +3,9 @@ name: Finn
 isPlayable: true
 isNPC: true
 description: >-
+  A boy with cat's ears.
+  And his hair looks like it just wants to be petted as well.
+description_player: >-
   If you can be anything, why not just be fluffy? The world is tough enough, and you're the cloud where everyone can land softly.
   One way or the other.
 gender: male
