@@ -10,7 +10,7 @@ description_player: >-
   and if someone wants to join you, that's fine too.
 gender: male
 age: 21
-image: "noah.jpg"
+image: 'noah.jpg'
 profession: Gardener
 behavior: >-
   You just take each day as it comes and go with the flow.
@@ -30,7 +30,7 @@ background: >-
   preferring to spend your time sleeping or smoking weed.
   Your parents want you to go to college, so you enrolled, but you're hardly ever there
   and you've even forgotten what you're even studying.
-load_states: []
+load_states: [devotion, infatuation]
 load_agendas: []
 start:
   destination: honeybrook

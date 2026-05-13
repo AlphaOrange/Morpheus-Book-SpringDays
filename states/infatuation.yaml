@@ -1,0 +1,26 @@
+---
+name: Infatuation
+description: feeling of falling in love with someone
+examples:
+  major_decrease: heaertbreak moments, getting hurt by someone
+  minor_decrease: someone you like does something bad, getting ignored
+  minor_increase: someone does something cute, being nice to you, getting a present
+  major_increase: discovering shared interest, sudden physical attraction
+base: 0
+change:
+  default: 0
+  move: 0
+  sleep: 0
+  context: [-25, -2, +2, +5]
+intervals:
+  - values: [31, 60]
+    effect: 'There is someone you like.'
+  - values: [61, 84]
+    effect: 'You have a feeling of butterflies in your stomach and you like it.'
+  - values: [85, 94]
+    effect: 'You are in love, want to spend all your time with your someone special.'
+  - values: [95, 100]
+    effect: 'You are deeply in love right now, nothing else matters right now.'
+events:
+  - above: 80
+    hint: '%selfname% looks really happy, their skin has a distinct glow.'

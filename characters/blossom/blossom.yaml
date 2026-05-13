@@ -10,7 +10,7 @@ description_player: >-
   At least, you are always in good company. Bzz bzz.
 gender: female
 age: 20
-image: "blossom.jpg"
+image: 'blossom.jpg'
 profession: Farm Girl
 behavior: >-
   You're shy but open-minded. If someone is interested in you, you're interested to get to know them better too.
@@ -30,7 +30,7 @@ background: >-
   You loved the animals, and they loved you.
   Just like the swarm of bees that once settled in your hair and has lived there as your friend ever since.
   You've started to wonder: Is there more to it than that? Is this what they call spring fever?
-load_states: []
+load_states: [nervousness, infatuation]
 load_agendas: []
 start:
   destination: honeybrook

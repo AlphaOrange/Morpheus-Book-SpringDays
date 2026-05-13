@@ -1,0 +1,28 @@
+---
+name: Nervousness
+description: distraction due to emotional stress
+examples:
+  major_decrease: tension release, getting out of a stressful situation indefinitely
+  minor_decrease: calm environment, comfort, good conversation
+  minor_increase: on a date, minor mishaps, talking to so strangers
+  major_increase: doing exam, sudden intimate situations, confessing ones love
+base: 0
+change:
+  default: -5
+  move: -20
+  sleep: -50
+  context: [-40, -1, +1, +20]
+intervals:
+  - values: [41, 80]
+    effect: "You are a bit nervous. Sometimes you avoid looking into the other's face or bite your lip"
+  - values: [81, 100]
+    effect: 'You are so nervous, you begin to stutter.'
+events:
+  - below: 50
+    hint: '%selfname% takes a deep breath and relaxes.'
+  - above: 50
+    hint: 'You see %selfname% playing with their hands nervously.'
+  - above: 70
+    hint: "There is some sweat visible on %selfname%'s forehead."
+  - above: 90
+    hint: '%selfname% seems really uncomfortable right now, you see them shaking.'

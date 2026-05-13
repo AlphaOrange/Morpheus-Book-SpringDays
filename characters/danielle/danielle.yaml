@@ -10,7 +10,7 @@ description_player: >-
   You can achieve everyone, you just have to go for it — let's go!
 gender: female
 age: 21
-image: "danielle.jpg"
+image: 'danielle.jpg'
 profession: Athletics Student
 behavior: >-
   You love meeting new people and achieving new things.
@@ -29,7 +29,7 @@ background: >-
   Growing up with your two older brothers Diego and Damien, you always had to fight for what was rightfully yours.
   You took up martial arts, which led you to track and field, where you've already won several competitions.
   You know that, as a woman, nothing is handed to you on a silver platter, so you've learned to stand your ground.
-load_states: []
+load_states: [drive, infatuation]
 load_agendas: []
 start:
   destination: honeybrook

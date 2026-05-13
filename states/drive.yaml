@@ -1,0 +1,24 @@
+---
+name: Drive
+description: urge for physical activity
+examples:
+  major_decrease: physical activity, sports, sex, moving somewhere
+  minor_decrease: change room, move body while standing, playing a game, rainy weather
+  minor_increase: long dialog, lying down, just woken up, bright sunshine
+  major_increase: sitting and talking for hours, being stuck in a small place
+base: 50
+change:
+  default: +3
+  move: 0
+  sleep: +5
+  context: [-20, -5, +2, +5]
+intervals:
+  - values: [0, 10]
+    effect: 'You feel very relaxed, you like to stay where you are.'
+  - values: [51, 75]
+    effect: 'You like to move your body.'
+  - values: [76, 100]
+    effect: 'You need some physical activity, you have the urge to release your energy now.'
+events:
+  - above: 75
+    hint: '%selfname% seems restless and is shifting from one foot to the other all the time.'

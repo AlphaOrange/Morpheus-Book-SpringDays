@@ -1,0 +1,24 @@
+---
+name: Devotion
+description: unknowingly dedication to a person to do whatever they want you to do
+examples:
+  major_decrease: getting insulted, physically or mentally hurt
+  minor_decrease: distraction, unfulfilled physical needs like hunger
+  minor_increase: getting compliments, attraction to someone
+  major_increase: being in love, rewards, promises of passion
+base: 0
+change:
+  default: -10
+  move: -15
+  sleep: +20
+  context: [-20, -2, +1, +5]
+intervals:
+  - values: [51, 75]
+    effect: 'You want someone to like you.'
+  - values: [76, 85]
+    effect: 'You are devoted to someone special and want to follow them.'
+  - values: [86, 100]
+    effect: 'You are totally devoted to someone special and do everything they want.'
+events:
+  - above: 75
+    hint: '%selfname% seems very unattentive to their environment.'

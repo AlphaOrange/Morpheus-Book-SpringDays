@@ -1,0 +1,30 @@
+---
+name: Curiousness
+description: being eager to learn more about something or someone fascinating
+examples:
+  major_decrease: being turned down, dismissive replies
+  minor_decrease: find out facts you don't like, dull people, ordinariness, definitive answers
+  minor_increase: discovering new facets, shared interests, engaging stories
+  major_increase: oddities, mysteries, puzzles, people revealing quirky facets
+base: 40
+change:
+  default: 0
+  move: 0
+  sleep: 0
+  context: [-5, -1, +2, +5]
+intervals:
+  - values: [0, 20]
+    effect: 'You are really bored and not interested in the current situation.'
+  - values: [61, 70]
+    effect: 'The current situation sparked your interest.'
+  - values: [71, 80]
+    effect: 'You are curious in the current situation and like to know more.'
+  - values: [81, 90]
+    effect: 'You are so curious right now, the situation really triggered your curiousity.'
+  - values: [91, 100]
+    effect: 'You are burning to know more right now, ask and dig deeper, this is so fascinating!'
+events:
+  - below: 10
+    hint: 'You see %selfname% looking elsewhere all the time, they seem bored and unattentive.'
+  - above: 80
+    hint: "There is a certain glow in %selfname%'s eyes"
