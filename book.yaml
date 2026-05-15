@@ -4,6 +4,7 @@ version:
   morpheus: 0.8.0
 features:
   - move
+  - states
   - talk
   - visual
 author: Stefan Tewes
@@ -30,3 +31,4 @@ start:
     What could be a better place to start your journey, get to know new people and, maybe, fall in love?
 options:
   maxPlayerChars: 1
+  playerCharsHaveStates: false
