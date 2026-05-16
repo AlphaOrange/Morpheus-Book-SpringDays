@@ -1,0 +1,24 @@
+---
+name: Desire
+description: strong feeling of wanting to get intimate with someone
+examples:
+  major_decrease: getting physically hurt or embarrassed
+  minor_decrease: seeing an unattractive side of someone, boredom
+  minor_increase: meeting someone new, attraction, compliments
+  major_increase: someone flirting with you or undressing and revealing their body
+base: 0
+change:
+  default: -10
+  move: -30
+  sleep: -60
+  context: [-20, -10, +2, +10]
+intervals:
+  - values: [35, 65]
+    effect: 'You want to get closer to someone.'
+  - values: [66, 80]
+    effect: 'You want to get intimate with someone.'
+  - values: [81, 90]
+    effect: 'You have a craving for someone and are pushing for more intimacy.'
+  - values: [91, 100]
+    effect: 'Your desire is burning, you want someone very much, you want their naked body all for you and have sex.'
+events: []

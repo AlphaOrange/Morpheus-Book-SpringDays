@@ -10,7 +10,7 @@ base: 0
 change:
   default: -10
   move: -15
-  sleep: +20
+  sleep: -20
   context: [-20, -2, +1, +5]
 intervals:
   - values: [51, 75]
