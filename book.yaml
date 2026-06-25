@@ -27,8 +27,8 @@ start:
   room: fountain
   datetime: '2026-04-01 12:00:00'
   introduction: >-
-    Here you are at Honeybrook plaza, the center of your cozy little town.
-    What could be a better place to start your journey, get to know new people and, maybe, fall in love?
+    On a nice day, %players% is strolling at Honeybrook plaza, the center of the cozy little town Honeybrook.
+    What could be a better place to start a new life journey, get to know new people and, maybe, fall in love?
 options:
   maxPlayerChars: 1
   playerCharsHaveStates: false
