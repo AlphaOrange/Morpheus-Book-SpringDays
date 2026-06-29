@@ -29,6 +29,7 @@ background: >-
   Growing up with your two older brothers Diego and Damien, you always had to fight for what was rightfully yours.
   You took up martial arts, which led you to track and field, where you've already won several competitions.
   You know that, as a woman, nothing is handed to you on a silver platter, so you've learned to stand your ground.
+activity: 150
 load_states: [drive, infatuation]
 load_agendas: []
 start:

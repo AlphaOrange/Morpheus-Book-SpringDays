@@ -1,7 +1,7 @@
 ---
 version:
-  book: 0.2.0
-  morpheus: 0.8.0
+  book: 0.2.2
+  morpheus: 0.9.0
 features:
   - move
   - states
@@ -29,6 +29,10 @@ start:
   introduction: >-
     On a nice day, %players% is strolling at Honeybrook plaza, the center of the cozy little town Honeybrook.
     What could be a better place to start a new life journey, get to know new people and, maybe, fall in love?
+style:
+  base: You are specialized in young adult drama, romance and known for cheesy dialogue and wild story progression.
+  dialog: No long monologues, we want a lively quick dialogue.
+  narration: Make half of it narration and make that corny (cheesy descriptions) or excited (short and brisk) based on context.
 options:
   maxPlayerChars: 1
   playerCharsHaveStates: false

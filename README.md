@@ -6,6 +6,14 @@ This interactive book focusses on young romance, enabling you to play any one of
 
 ## Version History
 
+### Version 0.2.2
+
+Include _Morpheus 0.9.0_'s new style and activity features
+
+### Version 0.2.1
+
+Update to _Morpheus 0.9.0_ adapting to new introduction feature
+
 ### Version 0.2.0
 
 - New Player Characters: Stacey, Tim

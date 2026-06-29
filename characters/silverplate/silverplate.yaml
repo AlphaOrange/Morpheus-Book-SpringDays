@@ -29,6 +29,7 @@ background: >-
   In earlier years you traveled the world from the freezing shores of Antarctica to Nepalese villages in foggy mountain heights.
   You met a lot of people, some of them you married, but it never lasted.
   Now you just want to spark curiosity for the world and share some of your memories and things you brought along.
+activity: 100
 load_states: []
 load_agendas: []
 start:

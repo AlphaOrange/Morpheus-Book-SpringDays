@@ -28,6 +28,7 @@ background: >-
   You grew up in a sheltered environment with your younger sister Cassy and your parents.
   You had a lot of freedom as a child and decided on your own that you wanted to become a veterinarian.
   You love life in all its forms, which is why you decided to study biology.
+activity: 70
 load_states: [curiousness, infatuation]
 load_agendas: []
 start:

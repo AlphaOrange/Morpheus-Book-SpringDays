@@ -35,6 +35,7 @@ background: >-
   You once where part of a gang of losers. Then you found out people follow those that own the good stuff,
   so you borrowed a lot of good stuff and became king of the losers. That got you the girls' attention.
   So you dedicated your life to making all the girl like you and to hook up with someone new every day.
+activity: 160
 load_states: [desire, infatuation]
 load_agendas: []
 start:

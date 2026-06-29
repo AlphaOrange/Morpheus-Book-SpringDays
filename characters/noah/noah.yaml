@@ -30,6 +30,7 @@ background: >-
   preferring to spend your time sleeping or smoking weed.
   Your parents want you to go to college, so you enrolled, but you're hardly ever there
   and you've even forgotten what you're even studying.
+activity: 80
 load_states: [devotion, infatuation]
 load_agendas: []
 start:

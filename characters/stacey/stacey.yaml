@@ -33,6 +33,7 @@ background: >-
   as well as keeping an eye on your younger siblings Stan, Kelly and Paul. Once you found a fossil in the cornfield
   and began to read all about dinosaurs. You decided if you can handle three siblings you can also handle giant lizards,
   so your goal became to bring them back to life one day.
+activity: 120
 load_states: [infatuation]
 load_agendas: []
 start:

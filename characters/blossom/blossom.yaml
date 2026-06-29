@@ -30,6 +30,7 @@ background: >-
   You loved the animals, and they loved you.
   Just like the swarm of bees that once settled in your hair and has lived there as your friend ever since.
   You've started to wonder: Is there more to it than that? Is this what they call spring fever?
+activity: 120
 load_states: [nervousness, infatuation]
 load_agendas: []
 start:
