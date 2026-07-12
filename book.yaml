@@ -33,6 +33,6 @@ style:
   base: You are specialized in young adult drama, romance and known for cheesy dialogue and wild story progression.
   dialog: No long monologues, we want a lively quick dialogue.
   narration: Make half of it narration and make that corny (cheesy descriptions) or excited (short and brisk) based on context.
-options:
+settings:
   maxPlayerChars: 1
   playerCharsHaveStates: false
