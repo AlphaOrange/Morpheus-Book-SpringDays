@@ -1,6 +1,6 @@
 ---
 version:
-  book: 0.2.2
+  book: 0.2.3
   morpheus: 0.9.0
 features:
   - move

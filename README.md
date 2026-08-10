@@ -6,6 +6,10 @@ This interactive book focusses on young romance, enabling you to play any one of
 
 ## Version History
 
+### Version 0.2.3
+
+Include _Morpheus 0.10.0_'s new book syntax
+
 ### Version 0.2.2
 
 Include _Morpheus 0.9.0_'s new style and activity features
