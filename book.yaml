@@ -36,3 +36,7 @@ style:
 settings:
   maxPlayerChars: 1
   playerCharsHaveStates: false
+options:
+  - tag: fantasy
+    description: Fantasy Edition
+    default: false

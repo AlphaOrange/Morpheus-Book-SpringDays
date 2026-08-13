@@ -1,0 +1,27 @@
+---
+name: Kira
+isPlayable: false
+isNPC: true
+description: >-
+  x
+description_player: >-
+  x
+gender: female
+age: 19
+image: 'kira.png'
+profession: x
+behavior: >-
+  x
+body: >-
+  x
+clothing: x
+appearance: x
+background: >-
+  x
+activity: 140
+load_states: [infatuation]
+load_agendas: []
+start:
+  destination: honeybrook
+  location: dorm
+  room: room6

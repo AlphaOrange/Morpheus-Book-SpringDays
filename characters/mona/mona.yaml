@@ -1,0 +1,27 @@
+---
+name: Mona
+isPlayable: true
+isNPC: true
+description: >-
+  x
+description_player: >-
+  x
+gender: female
+age: 21
+image: 'mona.png'
+profession: x
+behavior: >-
+  x
+body: >-
+  x
+clothing: x
+appearance: x
+background: >-
+  x
+activity: 90
+load_states: [infatuation]
+load_agendas: []
+start:
+  destination: honeybrook
+  location: dorm
+  room: room4
