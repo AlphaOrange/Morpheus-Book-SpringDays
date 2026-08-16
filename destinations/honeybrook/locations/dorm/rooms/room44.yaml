@@ -1,7 +1,8 @@
 ---
 name: Room 44 (Kira and Jessabel)
+conditions: "fantasy"
 description: >-
   Kira and Jessabel's dorm room.
   Blinds fully closed, a moon lamp and strings of fairy lights illuminate the room.
   Anatomy books and posters contrast with the cute cat pillows on the bed in front of them. On the other bed: a sleep mask.
-image: 'room44.jpg'
+image: "room44.jpg"

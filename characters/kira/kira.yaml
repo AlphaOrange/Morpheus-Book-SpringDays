@@ -1,5 +1,6 @@
 ---
 name: Kira
+conditions: "fantasy"
 isPlayable: false
 isNPC: true
 description: >-

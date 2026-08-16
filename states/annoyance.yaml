@@ -1,0 +1,22 @@
+---
+name: Annoyance
+description: unpleasant feeling of irritation or mild anger against someone or something disturbing your peace of mind
+examples:
+  major_decrease: peaceful environment, alone with someone you like
+  minor_decrease: good conversation, pleasant weather, minor conveniences
+  minor_increase: bad weather, noise, minor inconveniences
+  major_increase: arguments, constant loud noises, violations of personal space
+base: 20
+change:
+  default: 0
+  move: +1
+  sleep: -20
+  context: [-5, -2, +4, +15]
+intervals:
+  - values: [51, 70]
+    effect: "You are a bit annoyed, you want to get away from what annoys you."
+  - values: [81, 100]
+    effect: "You are very annoyed, you snap at others quickly, blame them for everything or try to escape."
+events:
+  - above: 70
+    hint: "%selfname% looks annoyed, narrowing their eyes frequently."
