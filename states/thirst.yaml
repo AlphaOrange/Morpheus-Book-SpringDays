@@ -1,0 +1,21 @@
+---
+name: Thirst
+description: physical need or strong desire to drink refreshing liquids
+examples:
+  major_decrease: drinking a portion of refreshing liquid
+  minor_decrease: drinking a zip of liquid, eating watery dessert, rain
+  minor_increase: seeing a refreshing drink, others drink, salty food, alcohol
+  major_increase: physical activity, heat, eating spicy food
+base: 40
+change:
+  default: +5
+  move: +6
+  sleep: +3
+  context: [-40, -10, +2, +15]
+intervals:
+  - values: [61, 80]
+    effect: 'You are thirsty and would like to drink something refreshing.'
+  - values: [81, 90]
+    effect: 'You are very thirsty and craving a drink.'
+  - values: [91, 100]
+    effect: 'You are dizzy from thirst, slightly confused, your mind wanders around. You would stop your current activity to get a drink immediately.'
