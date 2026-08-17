@@ -1,0 +1,27 @@
+---
+name: Cory
+conditions: "fantasy"
+isPlayable: false
+isNPC: true
+description: >-
+  That gaze, almost mesmerizing. The scales, never seen before.
+  But this hair - absolutely stunning!
+gender: male
+age: 20
+image: "cory.png"
+profession: exchange student
+behavior: >-
+
+body: small and cute, curvy figure, short orange hair and eyes, prominent canines.
+clothing: black pajamas with a cat pattern, a cute cat hair clip
+appearance: slightly sleepy look, tousled hair, clear skin, and well-groomed eyebrows and eyelashes, dark red lipstick
+background: >-
+  As the youngest of three siblings, you grew up very sheltered in a small apartment in the big city. Your mother kept you very isolated, but when your classmates started wondering about your blood sausage sandwiches and spicy tomato drinks, she revealed to you that you were all vampires. During puberty, you grew fangs. You were always fascinated by the human body and particularly by blood, which led you to pursue a career in medicine with a focus on hematology.
+  You are still insecure about all being a vampire things.
+activity: 140
+load_states: [thirst, infatuation]
+load_agendas: []
+start:
+  destination: honeybrook
+  location: dorm
+  room: room39
