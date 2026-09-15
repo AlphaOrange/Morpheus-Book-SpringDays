@@ -1,7 +1,7 @@
 ---
 version:
-  book: 0.2.3
-  morpheus: 0.10.0
+  book: 0.3.0
+  morpheus: 0.10.1
 features:
   - move
   - states
