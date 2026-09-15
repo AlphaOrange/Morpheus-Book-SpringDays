@@ -6,6 +6,21 @@ This interactive book focusses on young romance, enabling you to play any one of
 
 ## Version History
 
+### Version 0.3.0
+
+- New Player Characters: Goodwyn, Mona
+- New Non-Player Characters:
+- New Locations: The Cave
+- New Rooms: Wall Drawings (The Cave), Room 15 (Dorm)
+- Changed Room 4 for new character Mona
+- Add detailed room descriptions for AI characters
+- Minor changes
+
+Optional add-on "Fantasy Edition" with:
+
+- New Non-Player Characters: Cory, Jessabel, Kira, Pierre, Salih
+- New Rooms: The Crypt (The Cave), Room 39, Room 44 (Dorm)
+
 ### Version 0.2.3
 
 Include _Morpheus 0.10.0_'s new book syntax
