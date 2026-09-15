@@ -9,7 +9,6 @@ This interactive book focusses on young romance, enabling you to play any one of
 ### Version 0.3.0
 
 - New Player Characters: Goodwyn, Mona
-- New Non-Player Characters:
 - New Locations: The Cave
 - New Rooms: Wall Drawings (The Cave), Room 15 (Dorm)
 - Changed Room 4 for new character Mona
